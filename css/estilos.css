@@ -1,0 +1,66 @@
+html {font-family: 'Roboto', sans-serif;}
+body{font-family: 'Roboto', sans-serif;}
+
+/* Medidas */
+.max-width-1200 {
+    max-width: 1200px;
+}
+
+.img-height {
+    height: 350px
+}
+
+/* Colores */
+.bg-color-orange {
+    background-color: #F15113;
+}
+
+.bg-color-blue {
+    background-color: #0D6EFD;
+}
+
+.bg-color-grey {
+    background-color: #E9ECEF;
+}
+
+.bg-color-grey-body{
+    background-color: #F8F9FA;
+}
+
+#formulario input, #formulario select {
+    border-radius: 0;
+    border-color: grey;
+}
+
+.bold-600 {
+    font-weight: 600;
+}
+
+.bold-500 {
+    font-weight: 500;
+}
+
+.light-300 {
+    font-weight: 300;
+  }
+
+.objective-icon {
+    border-radius: 13px;
+    width: 8rem;
+}
+
+.alert {
+    border-radius:0;
+}
+
+/* Formulario */
+#formulario [placeholder] {
+    font-style: italic;
+}
+
+#formulario select,#selectOrdenar {
+    cursor: pointer;
+}
+
+/* Card */
+@media (max-width: 767.98px) { .border-sm-start-none { border-left: none !important; } }

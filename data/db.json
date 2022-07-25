@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Leanne Graham",
+    "email": "Graham@tuseguro.net",
+    "puesto": "Analista Técnico",
+    "tel": "15-7755-2597",
+    "imagen":"team-01"
+  },
+  {
+    "id": 2,
+    "nombre": "Ervin Howell",
+    "email": "Howell@tuseguro.net",
+    "puesto": "Ejecutiva de Cuentas",
+    "tel": "15-5186-6737",
+    "imagen":"team-02"
+  },
+  {
+    "id": 3,
+    "nombre": "Clementine Bauch",
+    "email": "Bauch@tuseguro.net",
+    "puesto": "Gerente Comercial",
+    "tel": "15-4145-9847",
+    "imagen":"team-03"
+  }
+]
